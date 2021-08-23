@@ -1,8 +1,10 @@
 # Hi, my name is Christina
-I am currently learning Full Stack Web Development.
+I am currently learning Full Stack Web Development. At the moment I am working with JavaScript (React, Node). I am looking to further leverage my skills with new projects.
 
-## Contact Me
-[<img height="50" width="50" src="https://user-images.githubusercontent.com/76018424/130500267-88d22ea0-2bf1-4037-9f74-62ebcda60fab.png"/>](https://www.linkedin.com/in/christina-pagan-19889b1aa/)
+<img height="20" width="20" src="https://user-images.githubusercontent.com/76018424/130500267-88d22ea0-2bf1-4037-9f74-62ebcda60fab.png"/> [LinkedIn](https://www.linkedin.com/in/christina-pagan-19889b1aa/) 
+
+<img height="20" width="20" src="https://user-images.githubusercontent.com/76018424/130503372-04efd93f-7dcc-4b21-af4f-db0a31521811.png" /> christina.pagan0004@gmail.com
+
 
 ## My Progess
 
@@ -15,10 +17,10 @@ I am currently learning Full Stack Web Development.
  
  ⚡ Fun fact: I love playing Sims4<img height="20" width="20" src="https://user-images.githubusercontent.com/76018424/130495117-a2ad4f36-f255-4986-87f1-b989dff32827.gif" />.
 </p>
- <p align="center">
+
  <img src="https://github-readme-stats.vercel.app/api?username=cpagan415&show_icons=true&theme=tokyonight&hide=stars" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpagan415&hide=GLSL,RUST,python,shell,assembly,objective-c&layout=compact&theme=tokyonight"/> 
-</p>
+
 
 
 
