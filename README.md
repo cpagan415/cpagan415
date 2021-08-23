@@ -2,7 +2,7 @@
 I am currently learning Full Stack Web Development.
 
 ## Contact Me
-[<img height="50" width="50" src="https://user-images.githubusercontent.com/76018424/130500267-88d22ea0-2bf1-4037-9f74-62ebcda60fab.png"/>](https://https://www.linkedin.com/in/christina-pagan-19889b1aa/)
+[<img height="50" width="50" src="https://user-images.githubusercontent.com/76018424/130500267-88d22ea0-2bf1-4037-9f74-62ebcda60fab.png"/>](https://www.linkedin.com/in/christina-pagan-19889b1aa/)
 
 ## My Progess
 
