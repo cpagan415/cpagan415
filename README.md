@@ -1,7 +1,10 @@
 # Hi, my name is Christina
 I am currently learning Full Stack Web Development.
 
-## About
+## Contact Me
+[<img height="50" width="50" src="https://user-images.githubusercontent.com/76018424/130500267-88d22ea0-2bf1-4037-9f74-62ebcda60fab.png"/>](https://https://www.linkedin.com/in/christina-pagan-19889b1aa/)
+
+## My Progess
 
  🔭 I’m currently working on Shop-Shop (a Redux paradigm e-commerce web app). 
 
@@ -16,9 +19,7 @@ I am currently learning Full Stack Web Development.
  <img src="https://github-readme-stats.vercel.app/api?username=cpagan415&show_icons=true&theme=tokyonight&hide=stars" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpagan415&hide=GLSL,RUST,python,shell,assembly,objective-c&layout=compact&theme=tokyonight"/> 
 </p>
-<p align="center">
-![<img height="50" width="50" src="https://user-images.githubusercontent.com/76018424/130500267-88d22ea0-2bf1-4037-9f74-62ebcda60fab.png"/>](https://https://www.linkedin.com/in/christina-pagan-19889b1aa/)
- </p>
+
 
 
 <!--
