@@ -11,7 +11,7 @@
  ![My stats](https://github-readme-stats.vercel.app/api?username=cpagan415&show_icons=true&theme=tokyonight&hide=stars) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,RUST,python,shell,assembly,objective-c&layout=compact&theme=tokyonight)](https://github.com/cpagan415/github-readme-stats)
 
 
- <br> [<img height="50" width="50" src="https://user-images.githubusercontent.com/76018424/130500267-88d22ea0-2bf1-4037-9f74-62ebcda60fab.png"/>](linkedin.com/in/christina-pagan-19889b1aa)<img hieght="50" width="50" src="https://user-images.githubusercontent.com/76018424/130500987-b00bbf03-c85b-46b5-a731-9c92968a1dee.png"/>
+ <br> [<img height="50" width="50" src="https://user-images.githubusercontent.com/76018424/130500267-88d22ea0-2bf1-4037-9f74-62ebcda60fab.png"/>](https://linkedin.com/in/christina-pagan-19889b1aa)<img hieght="50" width="50" src="https://user-images.githubusercontent.com/76018424/130500987-b00bbf03-c85b-46b5-a731-9c92968a1dee.png"/>
 
 
 <!--
