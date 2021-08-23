@@ -1,4 +1,4 @@
-# Hi, my name is Christina
+# Hello there! 
 I am currently learning Full Stack Web Development. At the moment I am working with JavaScript (React, Node). I am looking to further leverage my skills with new projects.
 
 <img height="20" width="20" src="https://user-images.githubusercontent.com/76018424/130500267-88d22ea0-2bf1-4037-9f74-62ebcda60fab.png"/> [LinkedIn](https://www.linkedin.com/in/christina-pagan-19889b1aa/) 
